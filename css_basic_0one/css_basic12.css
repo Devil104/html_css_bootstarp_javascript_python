@@ -1,0 +1,17 @@
+h1{
+  color: blue;
+}
+li{
+  color: rgb(255, 0, 0);
+}
+ol{
+  background: orange;
+  border-color: red;
+  border-width: 50px;
+  border-style: double;
+
+}
+span{
+  background: blue;
+  color: black;
+}

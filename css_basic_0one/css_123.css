@@ -1,0 +1,29 @@
+body{
+  background-color: : url(https://cdn.mos.cms.futurecdn.net/3BTsix4J4RhbhrA5iLUxdg-1024-80.jpg.webp);
+}
+#dave{
+  color: red;
+  text-decoration: line-through;
+}
+
+.rajib{
+  color: red;
+}
+.ghosh{
+  color: green;
+}
+ul{
+  border: 4px dotted purple;
+  background-color: green;
+}
+li a{
+  color: blue;
+}
+li {
+  color: red;
+}
+li a[href="https://www.facebook.com/"]
+{
+  color: blue;
+  background-color: white;
+}

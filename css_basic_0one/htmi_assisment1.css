@@ -1,0 +1,32 @@
+body{
+  background-color: #00ffe7;
+}
+h1{
+  color: black;
+  border: 1px solid black;
+}
+h3{
+  border-color: red;
+  border-style: ridge;
+}
+div p{
+  background: red;
+}
+li a{
+  color: red;
+}
+.pic{
+  color: red;
+}
+.pygu{
+  background-color: blue;
+  border-color: blue;
+  border-style: ridge;
+  border-width: 2px;
+}
+#bl{
+  border: 1px solid white;
+}
+input{
+  border: 2px solid red;
+}
